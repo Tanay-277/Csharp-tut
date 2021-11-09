@@ -1,0 +1,16 @@
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\obj\Debug\net5.0\tables.csproj.AssemblyReference.cache
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\obj\Debug\net5.0\tables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\obj\Debug\net5.0\tables.AssemblyInfoInputs.cache
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\obj\Debug\net5.0\tables.AssemblyInfo.cs
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\obj\Debug\net5.0\tables.csproj.CoreCompileInputs.cache
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\bin\Debug\net5.0\tables.exe
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\bin\Debug\net5.0\tables.deps.json
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\bin\Debug\net5.0\tables.runtimeconfig.json
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\bin\Debug\net5.0\tables.runtimeconfig.dev.json
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\bin\Debug\net5.0\tables.dll
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\bin\Debug\net5.0\ref\tables.dll
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\bin\Debug\net5.0\tables.pdb
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\obj\Debug\net5.0\tables.dll
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\obj\Debug\net5.0\ref\tables.dll
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\obj\Debug\net5.0\tables.pdb
+D:\Tanay\Tanay\Code Playground\Prac\C#\tut\tables\obj\Debug\net5.0\tables.genruntimeconfig.cache
